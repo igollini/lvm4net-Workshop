@@ -15,3 +15,4 @@ The package `lvm4net` is available on CRAN at https://CRAN.R-project.org/package
 
 Organiser and instructor: Isabella Gollini <isabella.gollini@ucd.ie>, Assistant Professor in Statistics, University College Dublin, Ireland.
 
+If you want you can join the workshop on RStudio cloud by clicking [here](https://rstudio.cloud/spaces/19687/join?access_code=pc%2FQyDTPGdSs6OyinM13Yjhkx2IbA7glCHJkn8Yv).
